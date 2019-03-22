@@ -5,7 +5,7 @@ qtserialport-opensource-src (5.11.3-2) unstable; urgency=medium
   * Bump Standards-version to 4.3.0, no changes needed.
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
-  * Upload ot unstable.
+  * Upload to unstable.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 26 Dec 2018 17:02:46 -0300
 
