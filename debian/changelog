@@ -3,6 +3,7 @@ qtserialport-opensource-src (5.12.2-1) UNRELEASED; urgency=medium
   [ Dmitry Shachnev ]
   * New upstream release.
   * Bump Qt build-dependencies to 5.12.2.
+  * Update Homepage URL.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 22 Mar 2019 12:21:31 +0300
 
