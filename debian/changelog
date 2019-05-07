@@ -1,4 +1,4 @@
-qtserialport-opensource-src (5.12.3-1) UNRELEASED; urgency=medium
+qtserialport-opensource-src (5.12.3-1) experimental; urgency=medium
 
   [ Scarlett Moore ]
   * Update packaging to use doc-base as per policy 9.10.
@@ -9,7 +9,7 @@ qtserialport-opensource-src (5.12.3-1) UNRELEASED; urgency=medium
   * Simplify debian/rules by using debian/not-installed file.
   * Add Build-Depends-Package field to debian/libqt5serialport5.symbols.
 
- -- Scarlett Moore <sgmoore@kde.org>  Mon, 06 May 2019 07:33:22 -0700
+ -- Dmitry Shachnev <mitya57@debian.org>  Tue, 07 May 2019 14:32:04 +0300
 
 qtserialport-opensource-src (5.12.2-1) experimental; urgency=medium
 
