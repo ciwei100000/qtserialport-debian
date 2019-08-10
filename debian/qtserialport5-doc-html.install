@@ -1,1 +1,6 @@
-usr/share/qt5/doc/qtserialport
+usr/share/qt5/doc/qtserialport/*.html
+usr/share/qt5/doc/qtserialport/images/
+usr/share/qt5/doc/qtserialport/qtserialport.index
+usr/share/qt5/doc/qtserialport/qtserialport.qhp
+usr/share/qt5/doc/qtserialport/qtserialport.qhp.sha1
+usr/share/qt5/doc/qtserialport/style/
