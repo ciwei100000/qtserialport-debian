@@ -6,6 +6,7 @@ qtserialport-opensource-src (5.14.1-1) UNRELEASED; urgency=medium
   * Update debian/libqt5serialport5-dev with new file.
   * Update symbols files with current build log (previous did not have any
     changes).
+  * Update Standards-Version to 4.5.0. No changes required.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 11 Mar 2020 15:03:04 -0300
 
