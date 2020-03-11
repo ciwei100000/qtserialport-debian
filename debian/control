@@ -9,7 +9,7 @@ Uploaders: Sune Vuorela <debian@pusling.com>,
            Timo Jyrinki <timo@debian.org>,
            Dmitry Shachnev <mitya57@debian.org>,
            Simon Quigley <tsimonq2@debian.org>
-Build-Depends: debhelper (>= 11),
+Build-Depends: debhelper-compat (= 12),
                libudev-dev [linux-any],
                pkg-kde-tools,
                qtbase5-dev (>= 5.14.1+dfsg~),
