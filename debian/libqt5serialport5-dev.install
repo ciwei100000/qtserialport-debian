@@ -6,6 +6,7 @@ usr/include/*/qt5/QtSerialPort/QtSerialPortVersion
 usr/include/*/qt5/QtSerialPort/qserialport.h
 usr/include/*/qt5/QtSerialPort/qserialportglobal.h
 usr/include/*/qt5/QtSerialPort/qserialportinfo.h
+usr/include/*/qt5/QtSerialPort/qtserialport-config.h
 usr/include/*/qt5/QtSerialPort/qtserialportversion.h
 usr/lib/*/cmake/Qt5SerialPort/Qt5SerialPortConfig.cmake
 usr/lib/*/cmake/Qt5SerialPort/Qt5SerialPortConfigVersion.cmake
