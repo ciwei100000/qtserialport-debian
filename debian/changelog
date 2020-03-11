@@ -10,6 +10,8 @@ qtserialport-opensource-src (5.14.1-1) UNRELEASED; urgency=medium
   * Switch to debehelper compat 12, depending upon debhelper-compat and
     removing debian/compat.
   * Use Rules-Requires-Root: no.
+  * Make the libqt5serialport5-dev dependency upon qtbase5-dev optional with
+    qtbase5-gles-dev, see #949028.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 11 Mar 2020 15:03:04 -0300
 
