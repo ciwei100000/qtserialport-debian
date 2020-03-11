@@ -9,6 +9,7 @@ qtserialport-opensource-src (5.14.1-1) UNRELEASED; urgency=medium
   * Update Standards-Version to 4.5.0. No changes required.
   * Switch to debehelper compat 12, depending upon debhelper-compat and
     removing debian/compat.
+  * Use Rules-Requires-Root: no.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 11 Mar 2020 15:03:04 -0300
 
