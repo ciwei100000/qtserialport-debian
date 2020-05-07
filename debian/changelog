@@ -5,6 +5,7 @@ qtserialport-opensource-src (5.14.2-1) UNRELEASED; urgency=medium
   * Bump Qt build-dependencies to 5.14.2.
   * Update to debhelper compat level 13.
     - Drop dh_missing override, no longer needed.
+  * Remove build path from libQt5SerialPort.prl for reproducibility.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 07 May 2020 20:02:58 +0300
 
