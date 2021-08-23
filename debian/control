@@ -12,11 +12,13 @@ Uploaders: Sune Vuorela <debian@pusling.com>,
 Build-Depends: debhelper-compat (= 13),
                libudev-dev [linux-any],
                pkg-kde-tools,
-               qtbase5-dev (>= 5.14.2+dfsg~),
-               qtbase5-private-dev (>= 5.14.2+dfsg~)
-Build-Depends-Indep: qtbase5-doc-html (>= 5.14.2+dfsg~) <!nodoc>,
-                     qttools5-dev-tools (>= 5.14.2~) <!nodoc>
-Standards-Version: 4.5.0
+               qtbase5-dev (>= 5.15.2+dfsg~),
+               qtbase5-private-dev (>= 5.15.2+dfsg~)
+Build-Depends-Indep: qdoc-qt5 (>= 5.15.2~) <!nodoc>,
+                     qhelpgenerator-qt5 (>= 5.15.2~) <!nodoc>,
+                     qtattributionsscanner-qt5 (>= 5.15.2~) <!nodoc>,
+                     qtbase5-doc-html (>= 5.15.2+dfsg~) <!nodoc>
+Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Homepage: https://doc.qt.io/qt-5/qtserialport-index.html
 Vcs-Git: https://salsa.debian.org/qt-kde-team/qt/qtserialport.git
